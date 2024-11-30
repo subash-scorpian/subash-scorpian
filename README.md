@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @subash-scorpian
-- 👀 I’m interested in data science
+- 👀 data science colaber 
 - 🌱 I’m currently learning pandas and techinical functions
 - 💞️ I’m looking to collaborate on data entu persons
 - 📫 You can reach me via instagram scorpian_subash
