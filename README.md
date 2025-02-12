@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @subash-scorpian
+- 👋 Hi, I’m @subash-scorpion
 - 👀 data science colaber 
 - 🌱 I’m currently learning pandas and techinical functions
 - 💞️ I’m looking to collaborate on data entu persons
